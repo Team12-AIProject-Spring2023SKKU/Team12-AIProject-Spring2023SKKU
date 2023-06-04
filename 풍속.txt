@@ -1,0 +1,13 @@
+https://windexchange.energy.gov/maps-data/325
+30미터 이하 높이에서의 풍속이 기준
+27 (Minnesota) - 5.295m/s
+38 (North Dakota) - 7.169m/s
+46 (South Dakota) - 7.146m/s
+05 (Arkansas) - 4.103m/s
+06 (California) - 4.831m/s
+22 (Lousiana) - 4.231m/s
+17 (Ilinois) - 5.419m/s
+19 (Iowa) - 6.793m/s
+31 (Nebraska) - 7.203m/s
+
+각 지역별로 나온 통계들이 있었으나 시기나 조건등이 상이한 경우가 많았기에 일단은 미국의 모든 주에 대한 동일한 조건으로 측정한 해당 데이터를 사용

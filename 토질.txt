@@ -1,0 +1,14 @@
+https://acsess.onlinelibrary.wiley.com/doi/10.2136/sssaj2017.04.0122
+토질 - 토질을 평가하는 요소는 다양하나, 대표적으로 경작지의 pH 농도를 기준으로 한다. pH는 7이상의 알칼리성일때 좋은 토질로 취급된다. 
+2018년 논문 기준 각 주별 토양의 평균 pH
+27 (Minnesota) - 5.68
+38 (North Dakota) - 6.89
+46 (South Dakota) - 6.72
+05 (Arkansas)  - 4.73
+06 (California) - 6.61
+22 (Lousiana) - 5.81
+17 (Ilinois) - 6.36
+19 (Iowa) - 6.85
+31 (Nebraska) - 7.05
+
+
